@@ -1,3 +1,3 @@
-# CS2240 - Performance Assessment #1
+# CS2240 - A Responsive Website
 
-https://ced802.github.io/CS2240-PA-1/
+This is a website that was created with HTML and CSS. 
